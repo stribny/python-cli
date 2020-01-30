@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "python-cli"
+version = "0.1.0"
+description = ""
+authors = ["Petr Stribny <petr@stribny.name"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+rich = "^0.3.2"
+typer = "^0.0.8"
